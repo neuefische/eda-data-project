@@ -1,4 +1,4 @@
-# Data Analytics Project from Maximilian Veismann
+# Data Analytics Project from M.V.
 
 About housing market in King county (Seattle region).
 Chosen character is Amy Williams, a member of the mafia who wants to sell and buy from the top 10% of houses AND looks for an outskirt residence.
